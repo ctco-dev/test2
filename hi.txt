@@ -4,6 +4,5 @@
 4. Margarita
 5. Yelena
 6. Roma
-7. Vadim
-8. hi
-9. Alexey
+7. hi
+8. Alexey
