@@ -1,11 +1,15 @@
 1. Alisa
-2. Margo
-3. Max
-4. Vadim
-5. Olga
-6. Yelena Silanteva
-7. Margarita
-8. Yelena
-9. Roma
-10. hi
-11. Alexey
+2. Pavel
+3. Kristaps
+4.Dima
+5. Aleksandr
+6.Max
+7. Vadim
+8. Olga
+9. Yelena Silanteva
+10. Margarita
+11. Yelena
+12. Roma
+13. Vadim
+14. hi
+15. Alexey
