@@ -1,7 +1,10 @@
 1. Margo
-1. Margarita
-2. Yelena
-3. Roma
-4. Vadim
-5. hi
-6. Alexey
+2. Vadim
+3. Olga
+4. Yelena Silanteva
+5. Margarita
+6. Yelena
+7. Roma
+8. Vadim
+9. hi
+10. Alexey
