@@ -1,16 +1,17 @@
-1. Gatis
-2. Evita
-3. Pavel
-4. Kristaps
-5.Dima
-6. Aleksandr
-7.Max
-8. Vadim
-9. Olga
-10. Yelena Silanteva
-11. Margarita
-12. Yelena
-13. Roma
-14. Vadim
-15. hi
-16. Alexey
+ 1. Gatis
+ 2. Gatis
+ 3. Evita
+ 4. Pavel
+ 5. Kristaps
+ 6.Dima
+ 7. Aleksandr
+ 8.Max
+ 9. Vadim
+ 10. Olga
+ 11. Yelena Silanteva
+ 12. Margarita
+ 13. Yelena
+ 14. Roma
+ 15. Vadim
+ 16. hi
+ 17. Alexey
