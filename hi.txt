@@ -1,10 +1,12 @@
 1. Gatis
-2. Vadim
-3. Olga
-4. Yelena Silanteva
-5. Margarita
-6. Yelena
-7. Roma
-8. Vadim
-9. hi
-10. Alexey
+2. Aleksandr
+3. Max
+4. Vadim
+5. Olga
+6. Yelena Silanteva
+7. Margarita
+8. Yelena
+9. Roma
+10. Vadim
+11. hi
+12. Alexey
